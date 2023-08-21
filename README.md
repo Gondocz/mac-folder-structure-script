@@ -1,1 +1,1 @@
-# mac-folder-structure-maker
+# Mac folder structure maker
