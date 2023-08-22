@@ -17,7 +17,7 @@ mkdir -p "$1/Folder2/Folder3"
 mkdir -p "$1/Folder4/Folder5/Folder6"
 mkdir -p "$1/Folder7"
 ```
-Save it and double-click the file. It will be installed into ~/Library/Services.
+Save it and double-click the file. It will be installed into `~/Library/Services`.
 ## Usage
 
 Just create a folder for your new project, right-click on it, and choose "Quick Actions/Create folder structure".  
