@@ -22,8 +22,8 @@ Save it and double-click the file. It will be installed into ~/Library/Services.
 
 Just create a folder for your new project, right-click on it, and choose "Quick Actions/Create folder structure".  
 
-![App Screenshot](screenshots/quickaction.png)
-![App Screenshot](screenshots/folderstructure1.png)
+![App Screenshot](../assets/screenshots/quickaction.png?raw=true)
+![App Screenshot](../assets/screenshots/folderstructure1.png?raw=true)
 ## Authors
 Hope you find this script useful.
 - [@Gondocz](https://www.github.com/gondocz)
